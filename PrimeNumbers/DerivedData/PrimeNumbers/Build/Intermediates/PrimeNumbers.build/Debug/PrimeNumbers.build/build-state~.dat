@@ -1,0 +1,120 @@
+TPrimeNumbers
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c00000000530295C000000000000000AA
+t1392678336
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000538BA550000000000000044C
+t1401660752
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000538BA55000000000000001DE
+t1401660752
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000538BA57A0000000000000ADC
+t1401660794
+s2780
+
+N/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/PrimeNumbers.LinkFileList
+c0000000053E98D1900000000000000B0
+t1407814937
+s176
+
+N/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o
+t1407814939
+s67872
+
+N/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers
+t2
+s0
+
+N/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp
+c0000000053E98D190000000000000176
+t1407814937
+s374
+
+CBuild AST from /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbc039499c499b941^664fa699c499b941^---0#1#1#--18"Check dependencies36"9466A753-A45E-436C-9C33-B2A43FE9502A-
+
+CCompileC DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s429507737.639889
+e429507739.251654
+r1
+xCompileC
+xDerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o
+x/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp
+o/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp:14:9: warning: unused variable 'upperBound' [-Wunused-variable]
+o    int upperBound;
+o        ^
+o/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp:13:9: warning: unused variable 'lowerBound' [-Wunused-variable]
+o    int lowerBound =0;
+o        ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp210"CompileC DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o PrimeNumbers/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler93fda399c499b941^056b409bc499b941^-373"/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp:14:9: warning: unused variable 'upperBound' [-Wunused-variable]    int upperBound;        ^/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp:13:9: warning: unused variable 'lowerBound' [-Wunused-variable]    int lowerBound =0;        ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@28"Unused variable 'upperBound'-429507739#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@86"file:///Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp0000000000000000^13#8#13#8#231#0#19"Unused Entity Issue--2@28"Unused variable 'lowerBound'-429507739#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@86"file:///Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp0000000000000000^12#8#12#8#208#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@86"file:///Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp0000000000000000^3610"CompileC DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o PrimeNumbers/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/PrimeNumbers-generated-files.hmap -I/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/PrimeNumbers-own-target-headers.hmap -I/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/PrimeNumbers-all-target-headers.hmap -iquote /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/PrimeNumbers-project-headers.hmap -I/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/DerivedSources/x86_64 -I/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/DerivedSources -F/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug -MMD -MT dependencies -MF /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.dia -c /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/PrimeNumbers/main.cpp -o /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o36"BC13182D-9864-4749-AEF7-A19B07B17A22-
+b1761B9A7-5205-4AE5-A683-7B8C815A5C70
+
+CLd /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers normal x86_64
+s429507739.252305
+e429507739.510379
+r1
+xLd
+x/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers
+xnormal
+xx86_64
+d/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/PrimeNumbers.LinkFileList
+d/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers75"Ld DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers normal x86_6405a5409bc499b941^b9a8829bc499b941^---0#0#1#--1218"Ld DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers normal x86_64    cd /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug -F/Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug -filelist /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/PrimeNumbers.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -Xlinker -dependency_info -Xlinker /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Intermediates/PrimeNumbers.build/Debug/PrimeNumbers.build/Objects-normal/x86_64/PrimeNumbers_dependency_info.dat -o /Users/anassaeed/Documents/Programs/FaceBook/PrimeNumbers/DerivedData/PrimeNumbers/Build/Products/Debug/PrimeNumbers36"B92F94DD-7B60-4838-B1ED-85B57F04ED3B-
+b1761B9A7-5205-4AE5-A683-7B8C815A5C70
+
